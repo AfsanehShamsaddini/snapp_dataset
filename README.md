@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project analyzes and models Lyft ride data in Tehran. It includes **data cleaning, feature engineering, exploratory data analysis (EDA), visualizations, and predictive modeling**. The goal is to understand ride patterns and predict key metrics, including daily trip counts and service types.
+This project analyzes and models Snapp ride data in Tehran. It includes **data cleaning, feature engineering, exploratory data analysis (EDA), visualizations, and predictive modeling**. The goal is to understand ride patterns and predict key metrics, including daily trip counts and service types.
 
 **Note:** The original data is from the **Uber and Lyft Dataset, Boston, MA**. Lyft rides were extracted and transformed to simulate ride data for Tehran, so this dataset is **synthetic and not real**.
 
