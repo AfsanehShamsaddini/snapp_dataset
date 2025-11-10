@@ -1,5 +1,5 @@
 
-# Lyft Ride Analysis & Prediction
+# Snapp Ride Analysis & Prediction
 
 ## Project Overview
 
